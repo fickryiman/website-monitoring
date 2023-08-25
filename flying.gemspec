@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Flying::VERSION
   s.authors     = ["fickry"]
   s.email       = ["fickry.iman@gmail.com"]
-  s.homepage    = "https://github.com/kurko/flying"
+  s.homepage    = "https://github.com/fickryiman/website-monitoring"
   s.summary     = %q{Verifies if services are up and running.}
   s.description = %q{Verifies if each given server is not down.}
 
